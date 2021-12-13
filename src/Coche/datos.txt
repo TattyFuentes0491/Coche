@@ -1,0 +1,2 @@
+Color      Marca      Modelo      No. Caballos      No. Puertas      Matricula      
+Blanco           Jeep           Campero           4           6           DG-980           
